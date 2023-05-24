@@ -1,0 +1,21 @@
+.header {
+    position: absolute;
+    max-width: 210px;
+    text-align: center;
+    /*
+    height: 47px;
+    left: 615px;
+    top: 50px;
+    */
+}
+
+.header text {
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 47px;
+    letter-spacing: 0.3em;
+
+    color: #FFFFFF;
+}
