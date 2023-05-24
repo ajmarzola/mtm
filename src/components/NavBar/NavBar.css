@@ -1,9 +1,9 @@
 .navbar {
-    position: absolute;
-    width: 68%;
-    /*
-    height: 32px;
-    left: 230px;
-    top: 158px;
-    */
+    width: 100%;
+    text-align: center;
+}
+
+.navbar hr {
+    color: #D9D9D9;
+    width: 80%;
 }

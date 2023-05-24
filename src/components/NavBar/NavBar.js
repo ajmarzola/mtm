@@ -9,6 +9,7 @@ export const NavBar = () => {
             <Menu url="#programming" target='_self' texto='PROGRAMMING' />
             <Menu url="#blockchain" target='_self' texto='BLOCKCHAIN' />
             <Menu url="#courses" target='_self' texto='COURSES' />
+            <hr />
         </div>
     );
 }
