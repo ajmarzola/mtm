@@ -1,0 +1,33 @@
+.post-column {
+    width: 50%;
+}
+
+.post-column h1 {
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 47px;
+    text-align: left;
+    color: #FFFFFF;
+}
+
+.post-column p {
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 21px;
+    text-align: justify;
+    color: #FFFFFF;
+}
+
+.post-column span {
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 18px;
+    text-align: right;
+    color: #FFFFFF;
+}

@@ -1,14 +1,3 @@
 .featured-post {
-    width: 80%;
-    height: 313px;
-}
-
-.featured-post h1 {
-    text-align: left;
-    font-family: 'Oswald';
-    font-style: normal;
-    font-weight: 700;
-    font-size: 48px;
-    line-height: 71px;
-    color: #FFFFFF;
+    width: 100%;
 }

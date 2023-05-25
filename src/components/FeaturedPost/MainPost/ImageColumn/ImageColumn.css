@@ -1,0 +1,11 @@
+.image-column {
+    width: 50%;
+    text-align: center;
+    align-self: center;
+    align-items: center;  
+}
+
+.image-column img {
+    border-radius: 10px;
+    max-height: 313px;
+}

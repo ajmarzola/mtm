@@ -1,9 +1,6 @@
-.navbar {
+.home {
+    max-width: 80%;
     text-align: center;
     align-self: center;
     align-items: center;
-}
-
-.navbar hr {
-    color: #D9D9D9;
 }
