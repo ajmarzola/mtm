@@ -1,0 +1,41 @@
+.mini-post {
+    width: 33%;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.mini-post h2 {
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+    color: #FFFFFF;
+    width: 100%;
+    text-align: left;
+}
+
+.mini-post span {
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 18px;
+    text-align: right;
+    color: #FFFFFF;
+}
+
+.mini-post div {
+    width: 100%;
+    text-align: center;
+    align-self: center;
+    align-items: center;  
+    background-size: 'cover';
+    background-repeat: 'no-repeat';
+    background-position: 'center';
+    border-radius: 10px;
+}
+
+.mini-post p {
+    height: 313px;
+}

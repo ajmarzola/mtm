@@ -1,0 +1,14 @@
+.image-column {
+    width: 50%;
+    text-align: center;
+    align-self: center;
+    align-items: center;  
+    background-size: cover;
+    background-repeat: 'no-repeat';
+    background-position: right;
+    border-radius: 10px;
+}
+
+.image-column p {
+    height: 313px;
+}
