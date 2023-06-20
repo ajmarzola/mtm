@@ -1,4 +1,8 @@
 .main-post {
     width: 100%;
-    display: inline-flex;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 32px;
+    flex-wrap: wrap;
+    flex: 1;
 }

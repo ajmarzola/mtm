@@ -1,0 +1,34 @@
+.texto {
+    width: 100%;
+}
+
+.texto h1 {
+    text-align: left;
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 71px;
+    color: #FFFFFF;
+}
+
+.texto h2 {
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 47px;
+    text-align: left;
+    color: #FFFFFF;
+}
+
+.texto h3 {
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+    color: #FFFFFF;
+    width: 100%;
+    text-align: left;
+}

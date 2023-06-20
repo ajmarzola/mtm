@@ -1,4 +1,6 @@
 import './MiniPost.css';
+import Title from '../../Title';
+import Excerpt from '../../Excerpt';
 
 export const MiniPost = ({ Post, Url }) => {
     const dataIso = Post.date;
@@ -16,7 +18,8 @@ export const MiniPost = ({ Post, Url }) => {
             <div style={divStyle}>
                 <p></p>
             </div>
-            <h2>{Post.title.rendered}</h2>
+            <Title><h3>{Post.title.rendered}</h3></Title>
+            <Excerpt>{Post.excerpt.rendered}</Excerpt>
             <span>{dataFormatada}</span>
         </div>
     );

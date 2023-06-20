@@ -1,10 +1,12 @@
+import Title from '../../../Title';
+import Excerpt from '../../../Excerpt';
 import './PostColumn.css';
 
 export const PostColumn = ({ Titulo, Resumo, Data }) => {
     return (
         <div className="post-column">
-            <h1>{Titulo}</h1>
-            <p dangerouslySetInnerHTML={{ __html: Resumo }} />
+            <Title><h2>{Titulo}</h2></Title>
+            <Excerpt>{Resumo}</Excerpt>
             <span>{Data}</span>
         </div>
     );
