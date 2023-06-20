@@ -2,6 +2,14 @@
     width: 33%;
     border-radius: 5px;
     padding: 5px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-self: center;
+    align-content: center;
+    justify-content: center;
+    justify-self: center;
+    justify-items: center;
 }
 
 .mini-post span {

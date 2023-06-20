@@ -1,9 +1,6 @@
 .menu {
     padding: 4px;
     display: inline-flex;
-}
-
-.menu a {
     font-family: 'Oswald';
     font-style: normal;
     font-weight: 400;
@@ -11,10 +8,4 @@
     line-height: 24px;
     color: #FFFFFF;
     text-decoration: none;
-}
-
-.menu a:hover {
-    font-weight: 600;
-    color: #17A1FE;
-    text-decoration: double;
 }

@@ -1,7 +1,12 @@
 .container section {
     /* margin: 2em 20em; */
-    max-width: 80%;
-    text-align: center;
-    align-self: center;
+    display: flexbox;
+    flex-direction: column;
     align-items: center;
+    align-self: center;
+    align-content: center;
+    justify-content: center;
+    justify-self: center;
+    justify-items: center;
+    max-width: 80%;
 }

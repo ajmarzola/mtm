@@ -9,7 +9,7 @@ import Container from "./components/Container";
 import Footer from "./components/Footer";
 
 const AppRoutes = () => {
-    return(
+    return (
         <BrowserRouter>
             <Header />
             <NavBar />
